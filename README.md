@@ -1,9 +1,10 @@
 # Design-e-Desenvolvimento-de-Bancos-de-Dados-I
 Descrição prévia da empresa para qual vamos construir o banco de dados.
+
 Alunos:
-Thiago Kunzendorff
-Caio Schnneider
-Felipe Moraes
+Thiago Kunzendorff,
+Caio Schnneider,
+Felipe Moraes,
 
 Empresa de Gerenciamento de Transportes de Cargas
 GT Transportes
