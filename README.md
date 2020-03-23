@@ -1,5 +1,5 @@
 # Design-e-Desenvolvimento-de-Bancos-de-Dados-I
-Descrição prévia da empresa para qual vamos construir o banco de dados.
+Descrição prévia da empresa para a qual vamos construir o banco de dados.
 
 Alunos:
 Thiago Kunzendorff,
